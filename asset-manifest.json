@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.4f7a440d.css",
-    "main.js": "/static/js/main.1af57712.js",
+    "main.css": "/static/css/main.9a94ea10.css",
+    "main.js": "/static/js/main.78f69b2e.js",
     "static/js/787.994511a4.chunk.js": "/static/js/787.994511a4.chunk.js",
     "static/media/lakshya.jpg": "/static/media/lakshya.4cd2d23009ec388afba7.jpg",
     "static/media/bharat.jpg": "/static/media/bharat.5c3114b6ae453915e90e.jpg",
@@ -13,6 +13,7 @@
     "static/media/drone.jpg": "/static/media/drone.686ff9287797ffc9d29f.jpg",
     "static/media/droneSim.jpg": "/static/media/droneSim.cbcba6cc65c4e71ab85c.jpg",
     "static/media/exh.jpg": "/static/media/exh.d06aa128f65cb6e1fcfe.jpg",
+    "static/media/BG6.gif": "/static/media/BG6.c3676fb75aa3b03af173.gif",
     "static/media/RBW.jpg": "/static/media/RBW.f800dd3a40c950af816d.jpg",
     "static/media/ayush.jpg": "/static/media/ayush.b060f3dec029fa4f3740.jpg",
     "static/media/dayal.jpg": "/static/media/dayal.3cd4094c3af02f013ee2.jpg",
@@ -22,7 +23,6 @@
     "static/media/ananyaa.jpg": "/static/media/ananyaa.e4fb1cfa63443eb48460.jpg",
     "static/media/akhil.jpg": "/static/media/akhil.64c230f12bc2b4c37719.jpg",
     "static/media/data.png": "/static/media/data.d019cf0736b0a8c40dd1.png",
-    "static/media/BG.jpg": "/static/media/BG.0a2a3fdbb65c48041c7d.jpg",
     "static/media/rithesh.jpg": "/static/media/rithesh.deb10803b9df7cbf5584.jpg",
     "static/media/aicte.png": "/static/media/aicte.5ca434d8a8ae3361c6d4.png",
     "static/media/peer.jpg": "/static/media/peer.198d7f9e0bb6281284e7.jpg",
@@ -48,12 +48,12 @@
     "index.html": "/index.html",
     "static/media/next.svg": "/static/media/next.88ac1afa1c01e4d9f3def17d767a8f1c.svg",
     "static/media/Menu.svg": "/static/media/Menu.113d59e2703636dfe157ec8ec962d598.svg",
-    "main.4f7a440d.css.map": "/static/css/main.4f7a440d.css.map",
-    "main.1af57712.js.map": "/static/js/main.1af57712.js.map",
+    "main.9a94ea10.css.map": "/static/css/main.9a94ea10.css.map",
+    "main.78f69b2e.js.map": "/static/js/main.78f69b2e.js.map",
     "787.994511a4.chunk.js.map": "/static/js/787.994511a4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4f7a440d.css",
-    "static/js/main.1af57712.js"
+    "static/css/main.9a94ea10.css",
+    "static/js/main.78f69b2e.js"
   ]
 }
